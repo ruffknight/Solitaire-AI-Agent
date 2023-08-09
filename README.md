@@ -8,7 +8,7 @@ The **Solitaire AI Agent** project was undertaken as part of the Artificial Inte
 
 ## Solitaire Game Variant
 
-This is a single-player game that dates back to the 17th century French court of Louis XIV. The game involves moving marbles on a board with small holes. The goal is to strategically eliminate marbles from the board, leaving only one marble in a specified position.
+This is a single-player game that dates back to the 17th century French court of Louis XIV. The game involves moving marbles on a board with small holes. The goal is to strategically eliminate marbles from the board, leaving only one marble in the center position.
 
 The game's rules include:
 
