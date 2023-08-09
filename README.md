@@ -1,4 +1,4 @@
-# Solitaire - AI Agent
+# Solitaire - Artificial Intelligence Agent
 
 ![Solitaire AI](https://i.ibb.co/qYtPF8f/solitaire.png)
 
