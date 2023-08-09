@@ -25,7 +25,7 @@ The project involves solving Solitaire puzzles with varying board dimensions and
 
 ## Testing
 
-The Solitaire AI Agent was tested to make sure it successfully run depth-first search, greedy search, and A* search algorithms for any provided problem. Additionally, the code was tested to be capable of solving the problems mentioned using an informed search approach in less than a minute.
+The Solitaire AI Agent was tested to make sure it successfully ran depth-first search, greedy search, and A* search algorithms for any provided problem. Additionally, the code was tested to be capable of solving the problems mentioned using an informed search approach in less than a minute.
 
 ## Getting Started
 
