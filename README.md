@@ -17,7 +17,7 @@ The game's rules include:
 
 ## Problem Description
 
-The project involves solving Solitaire puzzles with varying board dimensions and different numbers of empty spaces. The goal is to determine the sequence of moves that results in leaving a specified number of marbles on the board, fulfilling the requirements.
+The project involves solving Solitaire puzzles with varying board dimensions and different numbers of empty spaces. The goal is to determine the sequence of moves that results in leaving one marble on the board, fulfilling the requirements. For further information consult the "brief.pdf" file.
 
 ### Technology Stack
 
